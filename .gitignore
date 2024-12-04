@@ -165,3 +165,4 @@ cython_debug/
 #.idea/
 .DS_Store
 email-automation-443700-2dd9809e539d.json
+service_account.json
